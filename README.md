@@ -285,7 +285,7 @@ para definir comportamientos adicionales para los pedidos.
 
 Para ejecutar el proyecto:
 
-1. Abrir el proyecto en **IntelliJ IDEA**.
+1. Abrir el proyecto en **IntelliJ IDEA https://github.com/cpintomartinezsoc-cmyk/Poo2Actividad4.git**. 
 2. Ubicar la clase:
 
 ```text
@@ -322,7 +322,7 @@ public static void main(String[] args)
 
 **Repositorio GitHub:**
 
-`Poo2Semana4`
+https://github.com/cpintomartinezsoc-cmyk/Poo2Actividad4.git
 
 **Entrega:** 07/09/2026
 
