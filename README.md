@@ -12,8 +12,6 @@
 
 **Asignatura:** Desarrollo Orientado a Objetos II
 
-**Actividad:** Semana 4
-
 **Caso:** SpeedFast
 
 ---
